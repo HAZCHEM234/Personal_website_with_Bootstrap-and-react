@@ -1,0 +1,50 @@
+
+ @import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+.custom-container-height{
+    height: 40vw;
+    background-color: #f6f6f6;
+}
+
+
+
+.p-por{
+    margin-top: 20px;
+    font-size: 1vw;
+    animation: riseAnimation 3s ease-in-out;
+}
+
+.haz{
+    margin-top: 10vw;
+    font-size: 6vw;
+    animation: riseAnimation 3s ease-in-out;
+}
+
+.lol{
+    margin: 15vw;
+    font-size: 1vw;
+    font-weight: 500;
+}
+
+.email-button{
+    font-size: 1vw;
+}
+
+.monts{
+    font-family: 'Montserrat', sans-serif;
+}
+
+.web-developer-text {
+    /* Your existing styles for .web-developer-text */
+    animation: riseAnimation 3s ease-in-out;
+  }
+
+  @keyframes riseAnimation {
+    0% {
+      opacity: 0;
+      transform: translateY(20px);
+    }
+    100% {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }

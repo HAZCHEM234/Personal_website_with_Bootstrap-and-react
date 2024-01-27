@@ -1,0 +1,40 @@
+.custom-container-height2{
+    height: 50vw;
+    background-color: #fff;
+    margin-top: 10px;
+    margin-bottom: 50px;
+
+}
+.first {
+    width: 100vw;
+}
+
+.bion{
+    margin-top: 4vw;
+}
+.bio{
+    margin-top: 6vw;
+}
+
+.bio1{
+    margin-top: 3vw;
+}
+
+.bio2{
+    margin-top: 2.5vw;
+    text-align: left;
+}
+
+.web-image{
+    margin-top: 20px;
+    width: 80%;
+    height: 'auto'
+}
+
+.upwork{
+    margin-top: 6vw;
+    width: 70%;
+    height: auto;
+}
+
+
